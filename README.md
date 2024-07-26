@@ -86,14 +86,6 @@ night*](https://typemoon.fandom.com/wiki/Fate/stay_night).
 
 We strongly recommend:
 
-* **Enabling the *Patch* → *Options* → *Skip movies in-game* option.** Consider
-  watching these movies either online or via the **_Extras_** title option
-  available after successfully completing the Prologue. Attempting to play
-  movies usually raises fatal exceptions (e.g., at the fade-to-white Prologue
-  ending) with error messages resembling one or more of:
-  * `0009:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.`
-  * `00:15:24 ==== An exception occured at movie.tjs(210)[(function) open], VM ip = 81 ====`
-  * `00:15:25 exception: (object 0x1184E098:0x1184E098)"Cannot convert the variable type ((void) to Object)"`
 * **Disabling the *Patch* → *Vita Additions* → *Play Vita OP in-game* option.**
   In addition to raising fatal exceptions, Vita movies also contain heavy
   spoilers – especially for Heaven's Feel, the final route and grand finale.
