@@ -37,8 +37,8 @@ results:
       # of supported Lutris runners:
       #     https://lutris.net/api/runners
       # In order to keep with the newer versions of wine the default version is set to 8.26. This has been tested and shown to work.
-      #wine:
-      #  version: wine-ge-8-26
+      wine:
+        version: wine-10.8-staging
 
       installer:
         - task:
