@@ -8,12 +8,12 @@ results:
     script:
       files:
         - ultimate_edition_1_1_4: https://github.com/leycec/fsnrnue/releases/download/2023.04.11/fsnrnue-2023.04.11.zip
-        - game_fa:       N/A:Select source file "Fate.rar"
-        - game_fa_crack: N/A:Select source file "Fate Crack.rar"
-        - game_hf:       N/A:Select source file "Heaven's Feel.7z"
-        - game_hf_crack: N/A:Select source file "Heaven's Feel Crack.rar"
-        - game_ub:       N/A:Select source file "Unlimited Blade Works.rar"
-        - game_ub_crack: N/A:Select source file "Unlimited Blade Works Crack.rar"
+        - game_fa:       /workspaces/fsnrnue/game_files/Fate.rar
+        - game_fa_crack: /workspaces/fsnrnue/game_files/Fate Crack.rar
+        - game_hf:       /workspaces/fsnrnue/game_files/Heaven's Feel.7z
+        - game_hf_crack: /workspaces/fsnrnue/game_files/Heaven's Feel Crack.rar
+        - game_ub:       /workspaces/fsnrnue/game_files/Unlimited Blade Works.rar
+        - game_ub_crack: /workspaces/fsnrnue/game_files/Unlimited Blade Works Crack.rar
 
       game:
         exe: "$GAMEDIR/drive_c/Program Files/Fate／stay night[Realta Nua] Ultimate Edition/Fate64.exe"
